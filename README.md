@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reyalspoken
--  I’m interested in coding, yeha just that.
+-  I’m interested in coding... yeah just that
 -  I’m currently learning PHP and some phytom like very little.
 -  I’m looking to collaborate on nothing for now
 -  How to reach me, I dunno for now it is not important
